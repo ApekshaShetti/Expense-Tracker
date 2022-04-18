@@ -1,2 +1,1 @@
 In this project we have built a Complex Expense Budget Tracker. While building it, here we learned many advanced React & JavaScript topics. Some of them are State Management in React, Context API, Local Storage, Material UI, and to create a scalable React folder structure. But most importantly, we learned how to add voice capabilities to our applications using Speechly.
-![This is an image](/image/expensetracer.png)
